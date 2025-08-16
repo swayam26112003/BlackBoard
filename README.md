@@ -7,13 +7,7 @@ _A lightweight, interactive blackboard application built with React, Tailwind CS
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Live Demo](#live-demo)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
+ 
 ---
 
 ## Overview
